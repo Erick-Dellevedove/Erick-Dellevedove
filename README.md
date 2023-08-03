@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou o Erick</h1>
-<h3 align="center">Sou apaixonado por Ciência de Dados</h3>
+
 
 - Atualmente estou aprendendo sobre **SQL, Power BI e Python**
 
