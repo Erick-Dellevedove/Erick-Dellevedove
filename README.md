@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Eu sou o Erick</h1>
+<h1 align="center">Olá  👋  , Eu sou o Erick</h1>
 
 
 - Atualmente estou aprendendo sobre **SQL, Power BI e Python**
